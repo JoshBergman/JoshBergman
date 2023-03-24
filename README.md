@@ -1,4 +1,29 @@
-### Hi there 👋
+# 🐂Joshua Bergman🐃
+##### 👉 Check out my portfolio! [joshuabergman.dev](https://joshuabergman.dev)
+
+- 📫 How to reach me: josh.bergman1@pm.me
+- ⚡ Fun fact: 🐮🐂 Cows are good swimmers. 🏊‍♂️🐄
+- 💬 Feel free to contact!
+
+## 🦜🌴Featured Repositories🌴🦩
+
+---
+### 👉 [Algo Example](https://algoexample.com) 👈
+*🔎Explore new algorithms or watch satisfying sorting algorithms📊*
+>[Repo](https://github.com/JoshBergman/Algorithms-Explained)
+---
+### 👉 [Joshua Bergman PortfolioV2](https://joshuabergman.dev) 👈
+*👀Want to find & replace your name onto my portfolio?💀* 
+>[Repo](https://github.com/JoshBergman/Portfolio-v2)
+---
+### 👉 GitHub Christmas Tree 👈
+*🥸Too lazy to make commits but want to show off your word ethic?🍽*
+>[Repo](https://github.com/JoshBergman/GitHub-Christmas-Tree)
+---
+### 👉 Word Checker 👈
+*🥱Censor with efficiency. Should porbably be a package😴*
+>[Repo](https://github.com/JoshBergman/WordChecker)
+---
 
 <!--
 **JoshBergman/JoshBergman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
