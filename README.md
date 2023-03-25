@@ -17,7 +17,7 @@
 >[Repo](https://github.com/JoshBergman/Portfolio-v2)
 ---
 ### 👉 GitHub Christmas Tree 👈
-*🥸Too lazy to make commits but want to show off your word ethic?🍽*
+*🥸Too lazy to make commits but want to show off your work ethic?🍽*
 >[Repo](https://github.com/JoshBergman/GitHub-Christmas-Tree)
 ---
 ### 👉 Word Checker 👈
