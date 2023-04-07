@@ -12,6 +12,11 @@
 *🔎Explore new algorithms or watch satisfying sorting algorithms📊*
 >[Repo](https://github.com/JoshBergman/Algorithms-Explained)
 ---
+### 👉 TooSimpleAnalytics & TSA Checker 👈
+*👁 Stalk your own sites like an ex 🤫*
+>[Repo TSA]([https://github.com/JoshBergman/GitHub-Christmas-Tree](https://github.com/JoshBergman/TooSimpleAnalytics))
+>[Repo Checker]([https://github.com/JoshBergman/GitHub-Christmas-Tree](https://github.com/JoshBergman/TooSimpleAnalyticsCheck))
+---
 ### 👉 [Joshua Bergman PortfolioV2](https://joshuabergman.dev) 👈
 *👀Want to find & replace your name onto my portfolio?💀* 
 >[Repo](https://github.com/JoshBergman/Portfolio-v2)
