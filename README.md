@@ -9,11 +9,11 @@
 
 ---
 ### 👉 [Joshua Bergman PortfolioV3](https://joshuabergman.dev) 👈
-*👀Want to find & replace your name onto my portfolio?💀* 
+*👀 Want to find & replace your name onto my portfolio? 💀* 
 >[Repo](https://github.com/JoshBergman/Portfolio-V3)
 ---
 ### 👉 [Algo Example](https://algoexample.com) 👈
-*🔎Explore new algorithms or watch satisfying sorting algorithms📊*
+*🔎 Explore new algorithms or watch satisfying sorting algorithms 📊*
 >[Repo](https://github.com/JoshBergman/Algorithms-Explained)
 ---
 ### 👉 [Quick Budget Tool](https://quickbudgettool.com) 👈
