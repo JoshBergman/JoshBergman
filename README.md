@@ -8,18 +8,18 @@
 ## 🦜🌴Featured Repositories🌴🦩
 
 ---
+### 👉 [Joshua Bergman PortfolioV3](https://joshuabergman.dev) 👈
+*👀Want to find & replace your name onto my portfolio?💀* 
+>[Repo](https://github.com/JoshBergman/Portfolio-V3)
+---
 ### 👉 [Algo Example](https://algoexample.com) 👈
 *🔎Explore new algorithms or watch satisfying sorting algorithms📊*
 >[Repo](https://github.com/JoshBergman/Algorithms-Explained)
 ---
-### 👉 [TooSimpleAnalytics](https://github.com/JoshBergman/TooSimpleAnalytics) & [TSA Checker](https://github.com/JoshBergman/TooSimpleAnalyticsCheck) 👈
-*👁 Stalk your own sites like an ex 🤫*
-- >[TooSimpleAnalytics Repo](https://github.com/JoshBergman/TooSimpleAnalytics)
-- >[TSA Checker Repo](https://github.com/JoshBergman/TooSimpleAnalyticsCheck)
----
-### 👉 [Joshua Bergman PortfolioV2](https://joshuabergman.dev) 👈
-*👀Want to find & replace your name onto my portfolio?💀* 
->[Repo](https://github.com/JoshBergman/Portfolio-v2)
+### 👉 [Quick Budget Tool](https://quickbudgettool.com) 👈
+*💸 See where the heck all that money is going ⏱️*
+- >[Frontend Repo](https://github.com/JoshBergman/QBT2)
+- >[Backend Repo](https://github.com/JoshBergman/qbt2-backend)
 ---
 
 
