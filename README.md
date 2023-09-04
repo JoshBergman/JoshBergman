@@ -11,6 +11,11 @@
 
 ## 🦜🌴More Projects🌴🦩
 - 👉 [Quick Budget Tool](https://quickbudgettool.com)
+- 👉 [WordChecker](https://github.com/JoshBergman/WordChecker/tree/main)
+- 👉 [TimedViewCall](https://github.com/JoshBergman/Timed-View-Call-React-TS-JS)
+- 👉 [TooSimpleAnalyticsCHECK](https://github.com/JoshBergman/TooSimpleAnalyticsCheck)
+- 👉 [TooSimpleAnalytics](https://github.com/JoshBergman/TooSimpleAnalytics)
+- 👉 [ReactWorkflowAutomator](https://github.com/JoshBergman/ReactWorkFlowAutomator)
 ---
 
 
