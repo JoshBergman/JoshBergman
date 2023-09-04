@@ -13,10 +13,8 @@
 *🔎 Explore new algorithms or watch satisfying sorting algorithms 📊*
 - >[Repo](https://github.com/JoshBergman/Algorithms-Explained)
 ---
-### 👉 [Quick Budget Tool](https://quickbudgettool.com) 👈
-*💸 See where the heck all that money is going ⏱️*
-- >[Frontend Repo](https://github.com/JoshBergman/QBT2)
-- >[Backend Repo](https://github.com/JoshBergman/qbt2-backend)
+## 🦜🌴More Projects🌴🦩
+- 👉 [Quick Budget Tool](https://quickbudgettool.com)
 ---
 
 
