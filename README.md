@@ -7,10 +7,12 @@
 ## 🦜🌴Featured Repositories🌴🦩
 ### 👉 [Joshua Bergman PortfolioV3](https://joshuabergman.dev) 👈
 *👀 Want to find & replace your name onto my portfolio? 💀* 
->[Repo](https://github.com/JoshBergman/Portfolio-V3)
+- >[Repo](https://github.com/JoshBergman/Portfolio-V3)
+---
 ### 👉 [Algo Example](https://algoexample.com) 👈
 *🔎 Explore new algorithms or watch satisfying sorting algorithms 📊*
->[Repo](https://github.com/JoshBergman/Algorithms-Explained)
+- >[Repo](https://github.com/JoshBergman/Algorithms-Explained)
+---
 ### 👉 [Quick Budget Tool](https://quickbudgettool.com) 👈
 *💸 See where the heck all that money is going ⏱️*
 - >[Frontend Repo](https://github.com/JoshBergman/QBT2)
