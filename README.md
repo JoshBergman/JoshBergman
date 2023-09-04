@@ -5,11 +5,10 @@
 - 💬 Feel free to contact!
 
 ## 🦜🌴Featured Repositories🌴🦩
----
 ### 👉 [Algo Example](https://algoexample.com) 👈
 *🔎 Explore new algorithms or watch satisfying sorting algorithms 📊*
 - >[Repo](https://github.com/JoshBergman/Algorithms-Explained)
----
+
 ## 🦜🌴More Projects🌴🦩
 - 👉 [Quick Budget Tool](https://quickbudgettool.com)
 ---
