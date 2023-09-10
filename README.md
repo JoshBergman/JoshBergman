@@ -8,7 +8,6 @@
 ### 👉 [Auto CL](https://autocl-abb1d.web.app) 👈
 *📝 Make more personalized cover letters with the time-saving AutoCL 🦾*
 - >[Repo](https://github.com/JoshBergman/AutoCoverLetter)
----
 ### 👉 [Algo Example](https://algoexample.com) 👈
 *🔎 Explore new algorithms or watch satisfying sorting algorithms 📊*
 - >[Repo](https://github.com/JoshBergman/Algorithms-Explained)
