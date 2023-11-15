@@ -5,6 +5,10 @@
 - 💬 Feel free to contact!
 
 ## 🦜🌴Featured Repositories🌴🦩
+### 👉 [Too Simple Analytics](https://toosimpleanalytics.com) 👈
+*📈 Simple, Fast, Private, Free Analytics 🔒*
+- >[Repo Frontend](https://github.com/JoshBergman/TooSimpleAnalytics-Frontend#-live)
+- >[Repo Backend](https://github.com/JoshBergman/TooSimpleAnalytics-Backend)
 ### 👉 [Auto CL](https://autocl-abb1d.web.app) 👈
 *📝 Make more personalized cover letters with the time-saving AutoCL 🦾*
 - >[Repo](https://github.com/JoshBergman/AutoCoverLetter)
